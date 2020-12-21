@@ -4,6 +4,7 @@ This repository is my reading note for this book.
 
 
 # Outline
+latest update: 2020.12.21
 | Status | Chapter |
 |--------|---------|
 | :heavy_check_mark: Completed | Ch1. Introduction to Recommender Systems Handbook |
