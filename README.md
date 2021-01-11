@@ -8,9 +8,9 @@ latest update: 2020.12.21
 | Status | Chapter |
 |--------|---------|
 | :heavy_check_mark: Completed | Ch1. Introduction to Recommender Systems Handbook |
-| :pencil2: InProgress | Ch2. Data Mining Methods for Recommender Systems |
-| :pushpin: NotStarted | Ch3. Content-based Recommender Systems: State of the Art and Trends |
-| :pushpin: NotStarted | Ch4. A Comprehensive Survey of Neighborhood-based Recommendation Methods |
+| :heavy_check_mark: Completed | Ch2. Data Mining Methods for Recommender Systems |
+| :heavy_check_mark: Completed | Ch3. Content-based Recommender Systems: State of the Art and Trends |
+| :pencil2: InProgress | Ch4. A Comprehensive Survey of Neighborhood-based Recommendation Methods |
 | :pushpin: NotStarted | Ch5. Advances in Collaborative Filtering |
 | :pushpin: NotStarted | Ch6. Developing Constraint-based Recommenders |
 | :pushpin: NotStarted | Ch7. Context-Aware Recommender Systems |
